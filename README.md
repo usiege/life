@@ -1,6 +1,8 @@
 # FROM HERE
 
-> [LIFE LINE](./0LIFE.MD)
+听风的人生记录~~~
+
+> [LIFE LINE](https://github.com/usiege/Keep-Alive)
 
 
 ## 自媒体(私有库)

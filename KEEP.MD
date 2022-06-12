@@ -2,15 +2,6 @@
 keep 系列
 
 
-## KEEP-UP 
-> 自媒体
-
-- [KEEP-UP](https://github.com/usiege/KEEP-UP)
-
-
----------- （主）
-
-
 ## Keep-Alive 
 > 冥想
 
