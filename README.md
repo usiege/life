@@ -12,4 +12,4 @@
 
 ## 生活
 
-- [KEEP](./KEEP.MD)
+- [KEEP](https://github.com/usiege/keep)
